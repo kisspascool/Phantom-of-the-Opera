@@ -1263,16 +1263,16 @@ PartPSixVoiceOne =  \relative g'' { %Sax tenor
   \key f \major | % 121
   a8 \f ( bes ) a2. | % 122
   g8 g g c4. e,4 | % 123
-  f,4. f8 f4 f' | % 124
+  f4. f8 f4 f | % 124
   c1 | % 125
-  a8 bes a2. | % 126
+  a'8 bes a2. | % 126
   g8 g g c4. e,4 | % 127
   f4. f8 f4 f' | % 128
   c1 \> \bar "||"
   R1*6 | % 135
   \time 12/8  R1. | % 136
   \time 4/4  R1 \bar "||"
-  bes2 \! \mp d | % 138
+  bes,2 \! \mp d | % 138
   c2 e | % 139
   es2 c | \barNumberCheck #140
   f4 es2. | % 141
@@ -1281,16 +1281,16 @@ PartPSixVoiceOne =  \relative g'' { %Sax tenor
   d1 | % 144
   r4 c8 e g bes c d | % 145
   R1*16 | % 161
-  c,2 \mf c4 a | % 162
+  c2 \mf c4 a | % 162
   g8 g g c4. g4 | % 163
   f4. f8 f4 f' | % 164
   c4. c16 ( d ) e8 c a16 g f e | % 165
   f1 \fermata \bar "||"
-  \key c \major r8 e'16 \f f g4 ~ g4. f16 e | % 167
+  \key c \major r8 e16 \f f g4 ~ g4. f16 e | % 167
   \time 2/4  d16 c d e d4 | % 168
-  \time 4/4  r16 c8 f,16 f4 ~ f16 c'8 a16 c8 c16 a | % 169
+  \time 4/4  r16 c'8 f,16 f4 ~ f16 c'8 a16 c8 c16 a | % 169
   c8. a16 g8. a16 e8 c ~ c4 | \barNumberCheck #170
-  r8 e'16 f g4 ~ g4. f16 e | % 171
+  r8 e16 f g4 ~ g4. f16 e | % 171
   \time 2/4  d16 c d e d4 | % 172
   \time 4/4  r16 c'8 f,16 f4 ~ f16 c'8 a16 c8 c16 a | % 173
   \time 5/4  c8. a16 g8. a16 e8 c \mf ~ c4 r \bar "||"

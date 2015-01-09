@@ -32,12 +32,12 @@ PartPOneZeroVoiceOne =  \relative b' { %Trompette
   
   % Solo cor
   r4 e4 a e |
-  g4. fis8 fis2 ~|
-  fis4 d4 g4. d8 |
+  g4. f8 f2 ~|
+  f4 d4 g4. d8 |
   e1 |
   r4 e4 a e |
-  g4. fis8 fis2 ~|
-  fis4 d4 g4. d8 |
+  g4. f8 f2 ~|
+  f4 d4 g4. d8 |
   e1 \bar "||"
   % Fin solo cor
   r4 e \f a c | % 43
@@ -53,7 +53,9 @@ PartPOneZeroVoiceOne =  \relative b' { %Trompette
   r2 <a c>8 \mf -. <gis b> -. <g bes> -. <fis bes> -. | % 53
   <f a>1 | % 54
   <e gis>1 | % 55
-  \key a \major R1*9 \bar "||"
+  \key a \major R1*7
+  r4 b\ff e4. b8 |
+  c1 \bar "||"
   r4 cis \f fis a | % 65
   cis4. b b4 ~ | % 66
   b4 b e4. b8 | % 67
@@ -452,7 +454,7 @@ PartPOneOneVoiceTwo =  \relative a' { %Cor
   s1*2  s1*7 \bar "|."
 }
 
-PartPOneFiveVoiceOne =  \relative d, { %Tuba
+PartPOneFiveVoiceOne =  \relative d { %Tuba
   \clef "bass" \key f \major \time 4/4 | % 1
   d1 \f ~ | % 2
   d4.. r16 d8 -. des -. c -. b -. | % 3
