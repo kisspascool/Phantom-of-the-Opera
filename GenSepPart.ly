@@ -1,5 +1,5 @@
 \book {
-  \bookOutputName "Piccolo"
+  \bookOutputName "pdf/Piccolo"
   \paper {
     #(set-paper-size "a4")
   }
@@ -17,7 +17,7 @@
 }
 
 \book {
-  \bookOutputName "Flute"
+  \bookOutputName "pdf/Flute"
   \paper {
     #(set-paper-size "a4")
   }
@@ -36,7 +36,7 @@
 }
 
 \book {
-  \bookOutputName "Clarinet"
+  \bookOutputName "pdf/Clarinet"
   \paper {
     #(set-paper-size "a4")
   }
@@ -54,7 +54,7 @@
 }
 
 \book {
-  \bookOutputName "Alto Sax"
+  \bookOutputName "pdf/Alto Sax"
   \paper {
     #(set-paper-size "a4")
   }
@@ -73,7 +73,7 @@
 }
 
 \book {
-  \bookOutputName "Tenor Sax"
+  \bookOutputName "pdf/Tenor Sax"
   \paper {
     #(set-paper-size "a4")
   }
@@ -91,7 +91,7 @@
 }
 
 \book {
-  \bookOutputName "Trumpet"
+  \bookOutputName "pdf/Trumpet"
   \paper {
     #(set-paper-size "a4")
   }
@@ -110,7 +110,7 @@
 }
 
 \book {
-  \bookOutputName "Horn F"
+  \bookOutputName "pdf/Horn F"
   \paper {
     #(set-paper-size "a4")
   }
@@ -131,7 +131,7 @@
 
 
 \book {
-  \bookOutputName "Tuba"
+  \bookOutputName "pdf/Tuba"
   \paper {
     #(set-paper-size "a4")
   }
@@ -150,7 +150,7 @@
 
 
 \book {
-  \bookOutputName "ViolinI"
+  \bookOutputName "pdf/ViolinI"
   \paper {
     #(set-paper-size "a4")
   }
@@ -168,7 +168,7 @@
 }
 
 \book {
-  \bookOutputName "ViolinII"
+  \bookOutputName "pdf/ViolinII"
   \paper {
     #(set-paper-size "a4")
   }
@@ -186,7 +186,7 @@
 }
 
 \book {
-  \bookOutputName "Cello"
+  \bookOutputName "pdf/Cello"
   \paper {
     #(set-paper-size "a4")
   }
@@ -204,7 +204,7 @@
 }
 
 \book {
-  \bookOutputName "Piano"
+  \bookOutputName "pdf/Piano"
   \paper {
     #(set-paper-size "a4")
   }
@@ -227,7 +227,7 @@
 }
 
 \book {
-  \bookOutputName "Timpani"
+  \bookOutputName "pdf/Timpani"
   \paper {
     #(set-paper-size "a4")
   }
@@ -247,7 +247,7 @@
 }
 
 \book {
-  \bookOutputName "Percussion"
+  \bookOutputName "pdf/Percussion"
   \paper {
     #(set-paper-size "a4")
   }

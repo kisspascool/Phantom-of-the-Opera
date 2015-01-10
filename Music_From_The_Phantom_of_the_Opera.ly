@@ -40,6 +40,8 @@ short-indent = 15\mm
 
 % The score definition
 % Conducteur
+\book {
+  \bookOutputName "pdf/Score"
 \score {
   <<
     \new StaffGroup <<
@@ -248,6 +250,7 @@ short-indent = 15\mm
   \layout {}
   % To create MIDI output, uncomment the following line:
   %  \midi {}
+}
 }
 
  % Parties séparées
